@@ -3,7 +3,7 @@
 
 
 ## What is it?
-Team Manager is a JDA bot created for Discord's first annual Hack Week which is meant to organize various types of teams inside of your discord server WITHOUT relying on discord roles. It is a local-storage solution team management system (which can also be deployed in a cloud setting if needed). 
+Team Manager is a JDA bot created for Discord's first annual Hack Week which is meant to organize various types of teams inside of your discord server WITHOUT relying on discord roles. It is a local-storage solution team management system (which can also be deployed in a cloud setting if needed). If the bot ever goes down, all of the team information is saved and used when the bot comes back online.
 It is perfect for keeping teams organized. Some teams which would benefit include professional work groups, esports teams, or even friend groups - the list goes on.
 
 ## Setup
