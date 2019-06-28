@@ -1,0 +1,7 @@
+Token: MyBotToken
+-------------------------------------------------
+-- Don't change below ---------------------------
+Prefix: !
+-- Bot prefix, it is recommended to change this using the bot's prefix command
+Version: 1
+-- Bot version #, don't change this

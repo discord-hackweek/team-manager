@@ -1,0 +1,10 @@
+Name: Example
+Desc.Example: 
+Type.Example: public
+Manager.Example: manager id (the creator of the public team)
+Members.Example: member id 1, member id 2, etc
+Name: Overwatch
+Desc.Overwatch: 
+Type.Overwatch: private
+Manager.Overwatch: manager id (the person assigned as manager by a verified user)
+Members.Overwatch: member id 1, member id 2, etc
