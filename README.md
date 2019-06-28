@@ -62,7 +62,7 @@ The bot's default prefix is `!` but can be changed using the prefix command.
 
 `set (private/public) (team name)` - Changes an existing team's privacy setting
 
-#### Owner Only Commands
+#### Server Owner Only Commands
 `prefix (new prefix)` - Change the bots prefix
 
 `verified add/remove (@user)` - Adds or removes a user from the verified user list
